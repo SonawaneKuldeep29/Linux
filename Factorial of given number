@@ -1,0 +1,21 @@
+echo enter
+
+Edit
+
+View Search Terminal He the
+
+read n nl=0
+
+number
+
+n2=1
+
+echo fibonacii series is for((i=1;i<=n;i++))
+
+do
+
+echo $n1
+
+n3=$((n1+n2)) n1-$n2
+
+n2=$n3 done
